@@ -6,3 +6,4 @@ commands to spin rabbitmq server on docker.
 dsa
 docker run --name rabbitmq -p 5672:5672 -d rabbitmq.
 dsfd
+jjkh
